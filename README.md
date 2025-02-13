@@ -1,4 +1,5 @@
 # Potato Leaf Disease Detection  
+Potato plants are often affected by diseases like Early Blight and Late Blight, which can harm crop yield. This project uses AI and deep learning to quickly analyze leaf images and detect diseases with high accuracy. By providing fast diagnosis and treatment suggestions through a mobile or web app, it helps farmers protect their crops and improve productivity. 🌱📱🚀  
 # Problem Statement:                           
 Farmers who grow potatoes are often plagued by serious financial losses each year, which lead to several diseases that affect potato plants. The diseases Early Blight and Late Blight are the most common diseases. Early blight is caused by fungus, and late blight is caused by specific micro-organisms. If farmers detect this disease early and apply appropriate treatment, it can save a lot of crop production and prevent economic loss. There are different treatments for early blight and late blight, so it's important to be accurate in identifying the type of disease present in your potato plant. Behind the scenes, we will use Convolutional Neural Network - Deep Learning to diagnose plant diseases.
 
